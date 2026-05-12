@@ -10,7 +10,7 @@
 print("Hello Markdown")
 ```
 ---
-
+## Links
 https://markdown-here.com/img/icon256.png
 
 **What it shows:**  
@@ -19,6 +19,12 @@ https://markdown-here.com/img/icon256.png
 - Fenced code block  
 - Blockquote, inline code, link, image  
 - Horizontal rule  
+
+## Important Notes
+> This is a blockquote.
+> Use > for callouts
+
+---
 
 Save this as `example.md` and open it in any Markdown viewer (VS Code, Typora, or GitHub). 
 You can then modify each part to practice.
